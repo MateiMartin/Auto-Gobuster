@@ -15,7 +15,7 @@ python3 autogobuster -h
 Example:
 
 ```
-autogobuster -u http://0.0.0.0/ -w ~/wordlists/urls/common.txt
+autogobuster -u http://0.0.0.0/ -w /wordlists/common.txt
 ```
 
 ## Requirements
